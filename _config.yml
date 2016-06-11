@@ -1,0 +1,28 @@
+name: The Italian Landscape
+favicon: null
+layout_spectrum: 0.6541975005529821
+typography_spectrum: 0.17956012510694563
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.46956382947973907
+  lightness: 0.19305029325187206
+  saturation: 0.6212892301846296
+  rhythmicContrast: 0.674818207975477
+purpose: []
